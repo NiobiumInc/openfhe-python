@@ -1,0 +1,77 @@
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+============================================================
+
+Project: openfhe-python
+Generated: 2026-04-24
+Tool: SCANOSS (snippet detection with License dataset)
+Components: 2
+
+This file lists all third-party software components detected
+in this repository, along with their licenses and copyright
+notices as required by those licenses.
+
+------------------------------------------------------------
+
+LICENSE SUMMARY
+
+  BSD-2-Clause: 1 component(s)
+  GPL-3.0-only [COPYLEFT]: 1 component(s)
+
+------------------------------------------------------------
+
+COMPONENT ATTRIBUTIONS
+
+  openfhe-python
+  Version: v0.8.5
+  Source: https://github.com/openfheorg/openfhe-python
+  PURL: pkg:github/openfheorg/openfhe-python
+  Copyright:
+    Copyright 2022 ; OpenFHE
+    Copyright 2022 OpenFHE
+    Copyright (c) 2022; OpenFHE
+    Copyright (c) 2023; OpenFHE
+    Copyright copyright 2023; Yuriy Polyakov; Ian Quah; Rener Oliveira; and Matthew Triplett
+  License: BSD-2-Clause
+
+  Pyfhel
+  Version: 7148501
+  Source: https://github.com/ibarrond/Pyfhel
+  PURL: pkg:github/ibarrond/pyfhel
+  Copyright:
+    (C) 2007 Free Software Foundation; Inc. <http:  fsf.org >
+    (C) 2007 Free Software Foundation; Inc. <http:  fsf.org >.
+    Copyright copyright owner or entity authorized by
+  License: GPL-3.0-only
+
+------------------------------------------------------------
+
+FULL LICENSE TEXTS
+
+--- BSD-2-Clause ---
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+--- GPL-3.0-only ---
+
+Full license text available at: https://spdx.org/licenses/GPL-3.0-only.html
+
